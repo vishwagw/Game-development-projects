@@ -1,3 +1,4 @@
+# The main program that runs the game. 
 import pygame
 import sys
 from player import Player
